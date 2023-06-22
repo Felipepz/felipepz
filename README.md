@@ -16,7 +16,9 @@
   <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Felipe-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">  
   <img align="center" alt="Felipe-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">    
-  <img align="center" alt="Felipe-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">  
+  <img align="center" alt="Felipe-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="Felipe-Nginx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">  
+  <img align="center" alt="Felipe-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"> 
   <img align="center" alt="Felipe-PS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">  
 <br> <hr>     
 <h1>📱 My contacts</h1>
