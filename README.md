@@ -14,6 +14,7 @@
   <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">  
   <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">  
+  <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">  
 <br> <hr>     
 
 <div align="center">
