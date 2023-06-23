@@ -44,5 +44,11 @@
 
 <img height=160em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepz&langs_count=10&layout=compact&theme=algolia"/>   
    
+</div> 
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Felipepz/Felipepz/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
