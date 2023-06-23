@@ -46,6 +46,6 @@
    
 </div> 
 
-<div align="center">
+
 ![Snake animation](https://github.com/Felipepz/felipepz/blob/output/github-contribution-grid-snake.svg)
-</div> 
+
