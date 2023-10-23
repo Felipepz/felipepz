@@ -40,12 +40,10 @@
 
 <div>
  <a href="https://github.com/felipepz">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipepz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues&show_icons=true&show_owner=true">
 
 <img height=160em alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepz&langs_count=10&layout=compact&theme=algolia"/>   
    
 </div> 
 
 
-![Snake animation](https://github.com/Felipepz/felipepz/blob/output/github-contribution-grid-snake.svg)
 
